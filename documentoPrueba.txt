@@ -1,11 +1,2 @@
-Esta es una modificacion al documento!! - Victor Vera
-
-habia una vez 2.1
-
-agrego una linea intermedia linea 2
-
-hola, esta es una linea!
-
-linea anterior al final
-
-linea final borrada
+usuario 1 linea 1
+usuario 1 linea 2
