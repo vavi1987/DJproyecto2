@@ -4,4 +4,6 @@ agrego una linea intermedia linea 2
 
 hola, esta es una linea!
 
-agrego una linea final
+linea anterior al final
+
+linea final borrada
